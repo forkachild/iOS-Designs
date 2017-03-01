@@ -1,4 +1,4 @@
-# iOS-Designs
+# iOS Designs
 ## Beautiful reusable views for iOS 8.0+
 
 ### Round Image with shadow and border
